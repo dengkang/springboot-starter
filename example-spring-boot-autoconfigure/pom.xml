@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>example_spring_boot_autoconfigure</artifactId>
+    <artifactId>example-spring-boot-autoconfigure</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>example_spring_boot_autoconfigure</name>
+    <name>example-spring-boot-autoconfigure</name>
     <description>example_spring_boot_autoconfigure</description>
     <properties>
         <java.version>1.8</java.version>

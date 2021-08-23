@@ -1,2 +1,2 @@
 # springboot-starter
-自定义starter demo
+实现通过注解方式配置
