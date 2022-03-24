@@ -11,5 +11,7 @@ public class ConfigureInfo implements Serializable {
 
     private String id;
 
+
+
     private String ip;
 }
